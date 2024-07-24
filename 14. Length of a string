@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+
+    char str[100];
+    int length;
+    printf("Enter a string: ");
+    fgets(str, sizeof(str), stdin);
+    str[strcspn(str, "\n")] = 0;
+    length = strlen(str);
+    printf("Length of the string: %d\n", length);
+    printf("chandra naga sai kumar (192210299)\n");
+    return 0;
+}
