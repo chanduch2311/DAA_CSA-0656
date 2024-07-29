@@ -7,9 +7,9 @@
 7.	Write a program   to perform Selection sort.  
 8.	 Write a program   to perform Bubble sort
 9.	Write a program for to multiply two Matrix 
-10.   	Write a program for to check whether a given String is Palindrome or  not
+10. Write a program for to check whether a given String is Palindrome or  not
 11.	Write a program for to copy one string to another 
-12. 	Write a Program to perform binary search.
+12. Write a Program to perform binary search.
 13.	Write a program   to print the reverse of a string
 14.	Write a program   to find the length of a string.
 15.	Write a program to perform Strassen’s Matrix Multiplication.
@@ -36,10 +36,10 @@ If n=4                                          1
 31.	Write a program to print a minimum and maximum value sequency for all the numbers in a list.
 32.	Write a program to perform n Queens problem using backtracking.
 33.	Write a program to inset a number in a list.
-                34. Write a program to perform sum of subsets problem using backtracking.               
-               35. Write a program to perform graph coloring problem using backtracking.
-               36. Write a program to compute container loader Problem.
-               37. Write a program to generate the list of all factor for n value.
-               38.Write a program to perform Assignment problem using branch and bound.
-               39. Write a program for to perform liner search.
-               40.Write a program to find out Hamiltonian circuit Using backtracking method# DAA_CSA-0656
+34. Write a program to perform sum of subsets problem using backtracking.
+35.  Write a program to perform graph coloring problem using backtracking.
+36. Write a program to compute container loader Problem.
+37. Write a program to generate the list of all factor for n value.
+38.Write a program to perform Assignment problem using branch and bound.
+39. Write a program for to perform liner search.
+40.Write a program to find out Hamiltonian circuit Using backtracking method# DAA_CSA-0656
